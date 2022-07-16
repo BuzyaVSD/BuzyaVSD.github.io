@@ -751,10 +751,10 @@ footer a:hover {
   }
   .hamburger span {
     display: block;
-    height: 2px;
+    height: 3px;
     width: 100%;
     background-color: #fff;
-    margin-bottom: 2px;
+    margin-bottom: 4px;
     -webkit-transition: 0.5s all;
     transition: 0.5s all;
   }
